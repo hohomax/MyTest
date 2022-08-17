@@ -1,4 +1,4 @@
 public class Test {
 
-  private final String abc ="a";
+  private final String abc ="aB";
 }
